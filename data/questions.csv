@@ -1,0 +1,16 @@
+question,option_a,option_b,option_c,option_d,answer,topic
+What is the main goal of machine learning?,To learn patterns from data,To replace all computers,To create hardware,To increase internet speed,A,Machine Learning Basics
+Which type of machine learning uses labeled data?,Unsupervised learning,Supervised learning,Reinforcement learning,Random learning,B,Machine Learning Basics
+Which algorithm is commonly used for classification?,Linear Regression,K-Means only,Decision Tree,Apriori only,C,Machine Learning Basics
+Which keyword is used to define a function in Python?,func,define,def,function,C,Python Programming
+Which data type stores multiple items in an ordered collection?,List,Integer,Boolean,Float,A,Python Programming
+What does len() return for a Python list?,The largest value,The number of elements,The data type,The memory address,B,Python Programming
+What is data preprocessing?,Deleting all data,Preparing data for analysis or modeling,Creating computer hardware,Writing HTML only,B,Data Science
+Which Python library is widely used for working with tabular data?,Pandas,Turtle,Pygame,Tkinter,A,Data Science
+What does a histogram mainly show?,Distribution of numerical data,Source code,Network connections,File permissions,A,Data Science
+What does AI stand for?,Automated Internet,Artificial Intelligence,Advanced Information,Applied Internet,B,Artificial Intelligence
+Which is an example of AI?,A basic calculator,A recommendation system,A light switch,A USB cable,B,Artificial Intelligence
+Natural Language Processing mainly deals with?,Human language,Computer hardware,Electric circuits,Database storage only,A,Artificial Intelligence
+What is the basic building block of a neural network?,Neuron,Router,Compiler,Database,A,Neural Networks
+What is an activation function used for?,Introducing non-linearity into a neural network,Storing files,Connecting to Wi-Fi,Formatting a hard disk,A,Neural Networks
+Which method is commonly used to train neural networks?,Backpropagation,Defragmentation,Encryption,Compilation,A,Neural Networks

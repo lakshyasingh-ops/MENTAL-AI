@@ -1,0 +1,6 @@
+topic,description,difficulty
+Machine Learning Basics,"Introduction to machine learning, supervised learning, classification, regression, training data, and model evaluation.",Beginner
+Python Programming,"Python programming fundamentals including functions, lists, variables, data types, loops, and built-in functions.",Beginner
+Data Science,"Data science fundamentals including data preprocessing, Pandas, data analysis, visualization, and statistical concepts.",Intermediate
+Artificial Intelligence,"Artificial intelligence concepts including intelligent systems, recommendation systems, natural language processing, and AI applications.",Intermediate
+Neural Networks,"Neural network fundamentals including neurons, activation functions, layers, training, backpropagation, and deep learning.",Advanced
