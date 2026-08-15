@@ -1,6 +1,6 @@
-# NEXUS — Intelligent Recommendation System for E-Learning
+# MENTAL AI — Intelligent Recommendation System for E-Learning
 
-NEXUS is a Streamlit-based personalized learning platform.
+MENTAL AI is a Streamlit-based personalized learning platform.
 
 ## Core features
 
@@ -27,7 +27,7 @@ NEXUS is a Streamlit-based personalized learning platform.
 ## Project structure
 
 ```text
-NEXUS/
+MENTAL AI/
 ├── app.py
 ├── recommendation.py
 ├── requirements.txt
@@ -54,7 +54,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Run NEXUS:
+Run MENTAL AI:
 
 ```powershell
 streamlit run app.py
@@ -66,7 +66,7 @@ streamlit run app.py
 Uses the built-in question dataset and is intended for demonstrations.
 
 ### Personalized Assessment
-The student uploads study material. NEXUS extracts the text, analyzes concepts, generates an assessment, evaluates performance, and creates a learning roadmap.
+The student uploads study material. MENTAL AI extracts the text, analyzes concepts, generates an assessment, evaluates performance, and creates a learning roadmap.
 
 ## Important
 
