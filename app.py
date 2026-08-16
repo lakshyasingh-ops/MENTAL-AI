@@ -2568,63 +2568,6 @@ if name and assessment_mode == "Personalized Assessment":
                 f"Technical details: {error}"
             )
 
-
-# =========================================================
-# ABOUT MENTAL AI
-# =========================================================
-
-st.divider()
-
-st.header(
-    "ℹ️ About MENTAL AI"
-)
-
-st.write(
-    """
-    MENTAL AI is an AI-powered personalized learning
-    recommendation system designed to help students
-    identify their weak areas and determine what they
-    should study next.
-
-    The system analyzes quiz performance and uses
-    machine learning techniques such as TF-IDF and
-    cosine similarity to recommend related learning
-    topics.
-
-    MENTAL AI also allows students to upload PDF study
-    material and search for relevant information by
-    asking personal questions about their document.
-    """
-)
-
-
-about_col1, about_col2, about_col3 = st.columns(3)
-
-
-with about_col1:
-
-    st.metric(
-        "AI Technique",
-        "TF-IDF"
-    )
-
-
-with about_col2:
-
-    st.metric(
-        "Similarity Method",
-        "Cosine Similarity"
-    )
-
-
-with about_col3:
-
-    st.metric(
-        "Platform",
-        "Streamlit"
-    )
-
-
 # =========================================================
 # FOOTER
 # =========================================================
